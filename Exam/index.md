@@ -24,3 +24,9 @@
 ## Common Questions for the Type Above
 1. Find pattern (EF and AF over the entire space or on some planes) and directivity <br/>
 1. Find power levels <br/>
+
+## Past Exam Questions
+### 2016
+1. e-small ant, Chu's formula for Q, rad imp of short dipole (Q1.3)
+1. dipole array axis not align w element pol (Q2, I don't agree w the 60 deg pattern in sol)
+1. ustrip ant hi-order mode (Q3), compute and plot patt in prin planes (sol treat mag current as dipoles)
