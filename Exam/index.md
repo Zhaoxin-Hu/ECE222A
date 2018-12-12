@@ -30,3 +30,9 @@
 1. e-small ant, Chu's formula for Q, rad imp of short dipole (Q1.3)
 1. dipole array axis not align w element pol (Q2, I don't agree w the 60 deg pattern in sol)
 1. ustrip ant hi-order mode (Q3), compute and plot patt in prin planes (sol treat mag current as dipoles)
+
+
+### 2011
+1. dipole array of arbitrary element locations (Q1)
+1. helical antenna array (Q2)
+1. dipole mutual impedance (Q3.1)
